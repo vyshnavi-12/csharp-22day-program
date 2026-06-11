@@ -1,0 +1,5 @@
+Project Kick Start
+
+Phase 1: Business Understanding
+Phase 2: Scope Definition
+Phase 3: User Roles & Workflow Diagram
